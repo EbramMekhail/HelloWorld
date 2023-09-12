@@ -24,7 +24,7 @@ Here's a walkthrough of implemented features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenge was getting used to Android Studio the tutorial does not match what is currently being shown to students so it was a little troubling to navigate the assignment.
 
 ## License
 
