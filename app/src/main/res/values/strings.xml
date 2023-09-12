@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="ebram_intro">Hello World! My name is Ebram, I love funny pictures of cats and I am excited to learn Android Development.</string>
+    <string name="CatDesc">Cat With Milk on Face</string>
+    <string name="ButtonText">Say Hello!</string>
+</resources>
