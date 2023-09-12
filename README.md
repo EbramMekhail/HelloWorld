@@ -19,7 +19,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![HelloWorld Gif](https://github.com/EbramMekhail/HelloWorld/assets/84204243/e781ff35-1b67-475f-a90b-29c9c8a64e99)
 
 
